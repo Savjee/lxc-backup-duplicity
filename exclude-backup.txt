@@ -1,0 +1,7 @@
+**/rootfs/tmp
+**/rootfs/proc
+**/rootfs/run
+**/roots/mnt
+**/rootfs/media
+**/rootfs/root/.cache/duplicity
+**/rootfs/var/cache/apt
